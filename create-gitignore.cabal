@@ -1,6 +1,6 @@
 name:                create-gitignore
 version:             1.0.0.0
-synopsis:            Simple project template from stack
+synopsis:            Program that executes commands against the `gitignore.io` API
 description:         Please see README.md
 homepage:            https://github.com/AntoineGagne/create-gitignore#readme
 license:             BSD3
