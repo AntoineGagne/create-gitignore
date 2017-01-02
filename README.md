@@ -1,4 +1,4 @@
-# `create-ignore`
+# `create-gitignore`
 
 This is a short program to generate `.gitignore` files from the [`gitignore.io`](https://www.gitignore.io/) API.
 
