@@ -14,6 +14,7 @@ import Options.Applicative
 
 import qualified Data.ByteString.Lazy as ByteString
 import qualified Data.ByteString.Lazy.Char8 as Char8
+import Data.Monoid ((<>))
 
 data Options = Options { optionCommand :: !Command }
 

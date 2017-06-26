@@ -1,5 +1,5 @@
 name:                create-gitignore
-version:             1.0.0.0
+version:             1.0.1
 synopsis:            Program that executes commands against the `gitignore.io` API
 description:         Please see README.md
 homepage:            https://github.com/AntoineGagne/create-gitignore#readme
